@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 50px;
+}
+.job-card {
+    border: 1px solid #e3e3e3;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.job-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.status-badge {
+    margin-left: 10px;
+}
